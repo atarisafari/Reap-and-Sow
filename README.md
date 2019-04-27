@@ -10,4 +10,4 @@ other. See the figure below of a pictorial example of Sowers land distribution.
 vertical parcel of land. No two Reapers’ land parcels overlap. And each parcel stretches from the
 top of the plot of land to the bottom. 
 
-             ![alt text](https://i.gyazo.com/164e8d6de991f2e03e01ebcfdc7907d2.png)
+   ![alt text](https://i.gyazo.com/164e8d6de991f2e03e01ebcfdc7907d2.png)
